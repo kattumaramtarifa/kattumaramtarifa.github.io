@@ -94,9 +94,9 @@ Private catamaran sailing lesson 1 student only: 100€/hour
 
 ## **Where can you sail a catamaran in Tarifa**
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12900.255775060012!2d-5.6847073!3d36.0675444!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9de219abb6d0b29d!2sBIBO%20Watersports!5e0!3m2!1sen!2ses!4v1622299827335!5m2!1sen!2ses" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://maps.google.com/maps?q=36.0507376,-5.6472875&z=16&hl=en&output=embed" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-You can find us on the beach of Valdevaqueros, Tarifa, in BIBO Watersports from 10:00 to 20:00, where you can hire our services directly. 
+You'll find us on Los Lances Norte beach, Tarifa, in front of Chiringuito Afrikana (Afrikana Beach Bar), Los Pinos recreational area, from 10:00 to 20:00, where you can hire our services directly.
 
 If you have imagined yourself surfing the waters of the strait. Do not hesitate to contact us.
 
