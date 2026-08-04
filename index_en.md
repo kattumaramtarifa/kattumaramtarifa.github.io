@@ -92,6 +92,25 @@ Private catamaran sailing lesson 1 student only: 100€/hour
 <br>
 
 
+### **Catamaran rental in Tarifa**
+
+![catamaran rental tarifa](/assets/images/boat_beach.jpeg){: class="img-responsive" width="100%"}
+
+Experienced sailors only, or students who have completed our course.
+
+Want to rent and have never sailed a catamaran? Do it with us first: start with the course.
+
+Catamaran rental: 100€/hour
+
+<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
+  <button type="button" class="btn btn-dark">
+    I want to rent a catamaran
+  </button>
+</a>
+
+<br>
+<br>
+
 ## **Where can you sail a catamaran in Tarifa**
 
 <iframe src="https://maps.google.com/maps?q=36.0507376,-5.6472875&z=16&hl=en&output=embed" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -100,7 +119,7 @@ You'll find us on Los Lances Norte beach, Tarifa, in front of Chiringuito Afrika
 
 If you have imagined yourself surfing the waters of the strait. Do not hesitate to contact us.
 
-<a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
+<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
   <button type="button" class="btn btn-dark">
     Get in touch
   </button>
