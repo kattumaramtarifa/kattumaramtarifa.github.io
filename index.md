@@ -92,6 +92,25 @@ Clase privada de catamarán 1 solo alumno: 100€/hora
 <br>
 <br>
 
+### **Alquiler de catamarán en Tarifa**
+
+![alquiler catamaran tarifa](/assets/images/boat_beach.jpeg){: class="img-responsive" width="100%"}
+
+Solo para navegantes experimentados o alumnos que hayan hecho el curso con nosotros.
+
+¿Quieres alquilar y nunca has navegado un catamarán? Hazlo primero con nosotros: empieza por el curso.
+
+Alquiler de catamarán: 100€/hora
+
+<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
+  <button type="button" class="btn btn-dark">
+    Quiero alquilar un catamarán
+  </button>
+</a>
+
+<br>
+<br>
+
 ## **Dónde puedes navegar un catamarán en Tarifa**
 
 <iframe src="https://maps.google.com/maps?q=36.0507376,-5.6472875&z=16&hl=es&output=embed" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
