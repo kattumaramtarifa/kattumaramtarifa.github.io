@@ -42,7 +42,7 @@ Minimum 1 hour and 2 people, maximum 9 people. Minimum age 6 years old.
 
 Catamaran ride: 40€/hour (Minimum two people)
 
-<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSduc4pGizUAMNh9TYIiPEdgEhRSnerfb6ZbfrwfdowuTjR-sQ/viewform">
   <button type="button" class="btn btn-dark">
     I want my catamaran ride
   </button>
@@ -61,7 +61,7 @@ It is necessary to be in good shape.
 
 Extreme catamaran sailing: 40€/hour (Minimum two people)
 
-<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSduc4pGizUAMNh9TYIiPEdgEhRSnerfb6ZbfrwfdowuTjR-sQ/viewform">
   <button type="button" class="btn btn-dark">
     I want my sport sailing
   </button>
@@ -82,7 +82,7 @@ Private catamaran sailing course (6 hours) 1 student: 480€
 
 Private catamaran sailing lesson 1 student only: 100€/hour
 
-<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSduc4pGizUAMNh9TYIiPEdgEhRSnerfb6ZbfrwfdowuTjR-sQ/viewform">
   <button type="button" class="btn btn-dark">
     I want my catamaran course
   </button>
@@ -102,7 +102,7 @@ Want to rent and have never sailed a catamaran? Do it with us first: start with 
 
 Catamaran rental: 100€/hour
 
-<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSduc4pGizUAMNh9TYIiPEdgEhRSnerfb6ZbfrwfdowuTjR-sQ/viewform">
   <button type="button" class="btn btn-dark">
     I want to rent a catamaran
   </button>
@@ -119,7 +119,7 @@ You'll find us on Los Lances Norte beach, Tarifa, in front of Chiringuito Afrika
 
 If you have imagined yourself surfing the waters of the strait. Do not hesitate to contact us.
 
-<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSduc4pGizUAMNh9TYIiPEdgEhRSnerfb6ZbfrwfdowuTjR-sQ/viewform">
   <button type="button" class="btn btn-dark">
     Get in touch
   </button>
