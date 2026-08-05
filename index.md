@@ -43,7 +43,7 @@ Edad mínima 6 años.
 
 Paseo en catamarán: 40€/hora (Mínimo dos personas)
 
-<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSduc4pGizUAMNh9TYIiPEdgEhRSnerfb6ZbfrwfdowuTjR-sQ/viewform">
   <button type="button" class="btn btn-dark">
     Quiero mi paseo en catamarán
   </button>
@@ -62,7 +62,7 @@ Necesario estar en forma.
 
 Navegación extrema en catamarán: 40€/hora (Mínimo dos personas)
 
-<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSduc4pGizUAMNh9TYIiPEdgEhRSnerfb6ZbfrwfdowuTjR-sQ/viewform">
   <button type="button" class="btn btn-dark">
     Quiero mi navegación deportiva
   </button>
@@ -83,7 +83,7 @@ Curso catamarán privado (6 horas) 1 solo alumno: 480€
 
 Clase privada de catamarán 1 solo alumno: 100€/hora
 
-<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSduc4pGizUAMNh9TYIiPEdgEhRSnerfb6ZbfrwfdowuTjR-sQ/viewform">
   <button type="button" class="btn btn-dark">
     Quiero mi curso en catamarán
   </button>
@@ -102,7 +102,7 @@ Solo para navegantes experimentados o alumnos que hayan hecho el curso con nosot
 
 Alquiler de catamarán: 100€/hora
 
-<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSduc4pGizUAMNh9TYIiPEdgEhRSnerfb6ZbfrwfdowuTjR-sQ/viewform">
   <button type="button" class="btn btn-dark">
     Quiero alquilar un catamarán
   </button>
@@ -119,7 +119,7 @@ Nos encontrarás en la playa de Los Lances Norte, Tarifa, frente al Chiringuito 
 
 Si te has imaginado surcando las aguas del estrecho. No dudes contactarnos.
 
-<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSduc4pGizUAMNh9TYIiPEdgEhRSnerfb6ZbfrwfdowuTjR-sQ/viewform">
   <button type="button" class="btn btn-dark">
     Contacta con nosotros
   </button>
